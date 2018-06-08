@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "Vanguard_Protect_The_Earth.py", line 416, in <module>
+  File "Vanguard_Protect_The_Earth.py", line 398, in showGOScreen
+NameError: global name 'quit' is not defined
+Traceback (most recent call last):
+  File "Vanguard_Protect_The_Earth.py", line 416, in <module>
+  File "Vanguard_Protect_The_Earth.py", line 398, in showGOScreen
+NameError: global name 'quit' is not defined
+Traceback (most recent call last):
+  File "Vanguard_Protect_The_Earth.py", line 416, in <module>
+  File "Vanguard_Protect_The_Earth.py", line 398, in showGOScreen
+NameError: global name 'quit' is not defined
+Traceback (most recent call last):
+  File "Vanguard_Protect_The_Earth.py", line 416, in <module>
+  File "Vanguard_Protect_The_Earth.py", line 398, in showGOScreen
+NameError: global name 'quit' is not defined
